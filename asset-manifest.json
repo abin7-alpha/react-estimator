@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-estimator/static/css/main.0482c808.css",
+    "main.js": "/react-estimator/static/js/main.1b873d34.js",
+    "static/js/787.4aa3842d.chunk.js": "/react-estimator/static/js/787.4aa3842d.chunk.js",
+    "index.html": "/react-estimator/index.html",
+    "main.0482c808.css.map": "/react-estimator/static/css/main.0482c808.css.map",
+    "main.1b873d34.js.map": "/react-estimator/static/js/main.1b873d34.js.map",
+    "787.4aa3842d.chunk.js.map": "/react-estimator/static/js/787.4aa3842d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0482c808.css",
+    "static/js/main.1b873d34.js"
+  ]
+}
